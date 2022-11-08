@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(129, 129, 133, 0.778);
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(98, 90, 98);
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
